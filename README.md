@@ -9,4 +9,4 @@ To make the most out of this repository, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/adormundo/GoTrainingCod3r.git
+git clone https://github.com/adormundo/gotrainingcod3r.git
